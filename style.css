@@ -1,0 +1,9 @@
+body{
+	/*background: red*/
+	background-image: url("assets/ocean_high_rez.jpg"),url("assets/ocean_low_rez.jpg");
+	background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
+	background-color: #999;
+}
